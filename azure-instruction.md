@@ -11,4 +11,9 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 1. Visit [portal.azure.com](https://portal.azure.com) and log in using your university account credentials.
    
 2. Once logged in, navigate to the main menu and select "Access student benefits" to explore available options.
+
+3. Click on "Get started for free" to proceed.
    
+4. Complete the Azure account creation process by providing your personal information and verifying your phone number as prompted.
+   
+5. Enable double verification for your account by selecting the most suitable option and clicking "Next".   

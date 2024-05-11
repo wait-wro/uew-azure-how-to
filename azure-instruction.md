@@ -6,3 +6,9 @@
 
 Azure is Microsoft's cloud computing platform, offering a diverse range of services such as computing power, storage, and AI capabilities. It enables businesses to build, deploy, and manage applications globally without requiring substantial upfront investments. Renowned for its security and scalability, Azure is utilized by companies of all sizes across various industries. Additionally, as a student, you gain access to numerous applications through Azure, facilitating learning and development.
 
+### Sign-up Tutorial:
+
+1. Visit [portal.azure.com](https://portal.azure.com) and log in using your university account credentials.
+   
+2. Once logged in, navigate to the main menu and select "Access student benefits" to explore available options.
+   

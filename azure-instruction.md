@@ -17,3 +17,7 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 4. Complete the Azure account creation process by providing your personal information and verifying your phone number as prompted.
    
 5. Enable double verification for your account by selecting the most suitable option and clicking "Next".   
+
+6. Press "Keep going" to continue.
+   
+7. Congratulations! You have successfully created your Azure account. You'll notice a $100 credit allocated for educational purposes. Additionally, expect to receive an email from Microsoft Azure sent to your university email address.

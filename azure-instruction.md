@@ -31,3 +31,5 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 6. Click on **Create**, and you will see something like this:
 8. Next download the private key and create the machine.
 9. Congratulations! You have successfully created a resource in the Azure portal.
+
+For further information about Azure for students, refer to [Azure for Students FAQ](https://learn.microsoft.com/pl-pl/azure/education-hub/azure-dev-tools-teaching/program-faq#azure-for-students)

@@ -21,3 +21,8 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 6. Press "Keep going" to continue.
    
 7. Congratulations! You have successfully created your Azure account. You'll notice a $100 credit allocated for educational purposes. Additionally, expect to receive an email from Microsoft Azure sent to your university email address.
+
+### Adding a Resource on Azure:
+
+1. In the main menu, click on **Create resource**.
+2. Choose, for example, a virtual machine.

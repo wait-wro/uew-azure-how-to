@@ -28,3 +28,6 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 2. Choose, for example, a virtual machine.
 3. Name your virtual machine.
 4. You can configure many options, but for this example, we'll skip that.
+6. Click on **Create**, and you will see something like this:
+8. Next download the private key and create the machine.
+9. Congratulations! You have successfully created a resource in the Azure portal.

@@ -35,3 +35,4 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 
 For further information about Azure for students, refer to [Azure for Students FAQ](https://learn.microsoft.com/pl-pl/azure/education-hub/azure-dev-tools-teaching/program-faq#azure-for-students)
 
+test

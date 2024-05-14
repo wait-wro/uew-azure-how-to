@@ -11,18 +11,25 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 
 1. Visit [portal.azure.com](https://portal.azure.com) and log in using your university account credentials.
    !["Pic1"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz1.jpg)
+
 2. Once logged in, navigate to the main menu and select "Access student benefits" to explore available options.
+   !["Pic2"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz2.jpg)
 
 3. Click on "Get started for free" to proceed.
-   
+   !["Pic3"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz3.jpg)
+
 4. Complete the Azure account creation process by providing your personal information and verifying your phone number as prompted.
-   
+   !["Pic4"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz4.jpg)
+   !["Pic5"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz5.jpg)
+
 5. Enable double verification for your account by selecting the most suitable option and clicking "Next".   
+   !["Pic6"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz6.jpg)
 
 6. Press "Keep going" to continue.
-   
-7. Congratulations! You have successfully created your Azure account. You'll notice a $100 credit allocated for educational purposes. Additionally, expect to receive an email from Microsoft Azure sent to your university email address.
+   !["Pic6"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz7.jpg)
 
+7. Congratulations! You have successfully created your Azure account. You'll notice a $100 credit allocated for educational purposes. Additionally, expect to receive an email from Microsoft Azure sent to your university email address.
+   !["Pic7"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz8.jpg)
 ### Adding a resource on Azure:
 
 1. In the main menu, click on **Create resource**.

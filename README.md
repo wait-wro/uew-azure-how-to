@@ -10,7 +10,7 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 ### Sign-up Tutorial:
 
 1. Visit [portal.azure.com](https://portal.azure.com) and log in using your university account credentials.
-   
+
 2. Once logged in, navigate to the main menu and select "Access student benefits" to explore available options.
 
 3. Click on "Get started for free" to proceed.

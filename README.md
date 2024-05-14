@@ -31,20 +31,30 @@ Azure is Microsoft's cloud computing platform, offering a diverse range of servi
 
 6. Press "Keep going" to continue.
    
-   !["Pic6"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz7.jpg)
+   !["Pic7"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz7.jpg)
 
 7. Congratulations! You have successfully created your Azure account. You'll notice a $100 credit allocated for educational purposes. Additionally, expect to receive an email from Microsoft Azure sent to your university email address.
    
-   !["Pic7"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz8.jpg)
+   !["Pic8"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz8.jpg)
 ### Adding a resource on Azure:
 
 1. In the main menu, click on **Create resource**.
 2. Choose, for example, a virtual machine.
 3. Name your virtual machine.
-4. You can configure many options, but for this example, we'll skip that.
-6. Click on **Create**, and you will see something like this:
-8. Next download the private key and create the machine.
-9. Congratulations! You have successfully created a resource in the Azure portal.
 
+!["Pic10"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz10.jpg)
+
+4. You can configure many options, but for this example, we'll skip that.
+5. Click on **Create**, and you will see something like this:
+   
+   !["Pic11"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz11.jpg)
+
+6. Next download the private key and create the machine.
+
+   !["Pic12"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz12.jpg)
+
+7. Congratulations! You have successfully created a resource in the Azure portal.
+
+   !["Pic13"](https://github.com/Mghd269/uew-azure-how-to/blob/main/azure%20ss/Obraz13.jpg)
 For further information about Azure for students, refer to [Azure for Students FAQ](https://learn.microsoft.com/pl-pl/azure/education-hub/azure-dev-tools-teaching/program-faq#azure-for-students)
 
